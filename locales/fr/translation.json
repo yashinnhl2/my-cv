@@ -54,5 +54,6 @@
   "nav.about": "À propos",
   "nav.projects": "Projets",
   "nav.blog": "Blog",
-  "nav.contact": "Contact"
+  "nav.contact": "Contact",
+  "blog.test_for_local123": "Test pour local123"
 }
