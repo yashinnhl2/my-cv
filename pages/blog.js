@@ -8,7 +8,8 @@ export default function Blog() {
     <>
       <Nav />
       <div className="page">
-        <h1>Test for local123</h1>
+        <h1>{t('blog.test_for_local123')}</h1>
+        <h1>{t('blog.test_for_newlocal')}</h1>
         <h1>{t("blog.why_developer_tooling_is_the_best_bet_in")}</h1>
         <p className="blog-meta">{t("blog.published_july_2026_6_min_read")}</p>
 
